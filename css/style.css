@@ -1,0 +1,31 @@
+body{
+	text-align: center;
+	background:#001d47;
+	color:white;
+	font-family: 'Bungee', cursive;
+
+}
+h1{
+	
+}
+.dropdown-menu {
+  left: 50%;
+  right: auto;
+  text-align: center;
+  transform: translate(-50%, 0);
+}
+
+.grupo{	
+	color:white;
+	text-align: center;
+	padding-bottom: 15px;
+	padding-left: 10px;
+	background-color: #910404;
+	display: inline-block;
+	padding-right: 10px;
+	padding-top: 15px;
+
+}
+.column{
+	display: inline-block;
+}
